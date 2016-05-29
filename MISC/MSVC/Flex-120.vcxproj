@@ -84,11 +84,6 @@
     <ClInclude Include="..\..\flexdef.h" />
     <ClInclude Include="..\..\FlexLexer.h" />
     <ClInclude Include="..\..\parse.h" />
-    <ClInclude Include="..\..\reflex-20131209\config.h" />
-    <ClInclude Include="..\..\reflex-20131209\flexdef.h" />
-    <ClInclude Include="..\..\reflex-20131209\FlexLexer.h" />
-    <ClInclude Include="..\..\reflex-20131209\parse.h" />
-    <ClInclude Include="..\..\reflex-20131209\version.h" />
     <ClInclude Include="..\..\version.h" />
   </ItemGroup>
   <ItemGroup>
